@@ -1,1 +1,1 @@
-print('Everybody Lies !')
+print('Everybody Smiles!')
